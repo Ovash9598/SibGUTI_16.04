@@ -1,0 +1,32 @@
+using System;
+
+class Item{
+    public string Name { get; }
+    public int Cost { get; }
+    public string Bonus { get; }
+
+    public Item(string name, int cost, string bonus)
+    {
+        Name = name;
+        Cost = cost;
+        Bonus = bonus;
+    }
+
+    public void PrintInfo()
+    {
+        Console.WriteLine($"Название: {Name}");
+        Console.WriteLine($"Стоимость: {Cost} золота");
+        Console.WriteLine($"Бонус: {Bonus}");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+
+        Item blinkDagger = new Item("Blink Dagger", 2250, "+15 к ловкости");
+
+        blinkDagger.PrintInfo();
+    }
+}
