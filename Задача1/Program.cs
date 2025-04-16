@@ -1,0 +1,30 @@
+﻿using System;
+
+class Program
+{
+    static int CalculateGoldForCreeps(int creepCount)
+    {
+
+        Random random = new Random();
+        int totalGold = 0;
+
+        for (int i = 0; i < creepCount; i++)
+        {
+
+            int goldPerCreep = random.Next(30, 51);
+            totalGold += goldPerCreep;
+        }
+
+        return totalGold;
+    }
+    static void Main()
+    {
+
+        Console.Write("Введите количество убитых крипов: ");
+        int creepCount = int.Parse(Console.ReadLine());
+
+        int totalGold = CalculateGoldForCreeps(creepCount);
+
+        Console.WriteLine($"Вы получили {totalGold} золота");
+    }
+}
