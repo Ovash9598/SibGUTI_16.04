@@ -1,0 +1,14 @@
+C:\Work\c#\Задача3\bin\Debug\net8.0\Задача3.exe
+C:\Work\c#\Задача3\bin\Debug\net8.0\Задача3.deps.json
+C:\Work\c#\Задача3\bin\Debug\net8.0\Задача3.runtimeconfig.json
+C:\Work\c#\Задача3\bin\Debug\net8.0\Задача3.dll
+C:\Work\c#\Задача3\bin\Debug\net8.0\Задача3.pdb
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.AssemblyInfoInputs.cache
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.AssemblyInfo.cs
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.csproj.CoreCompileInputs.cache
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.dll
+C:\Work\c#\Задача3\obj\Debug\net8.0\refint\Задача3.dll
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.pdb
+C:\Work\c#\Задача3\obj\Debug\net8.0\Задача3.genruntimeconfig.cache
+C:\Work\c#\Задача3\obj\Debug\net8.0\ref\Задача3.dll
